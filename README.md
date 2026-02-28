@@ -15,7 +15,7 @@ Fully Installs BepInEx to your Gorilla Tag Directory!
 
 # SUPPORT
 
-Join https://discord.gg/iidk and @cokewok for help
+Join discord.gg/qzDZYytqqb and @ any helper for any type of help with Gorilla Tag
 
 # HELP
 
